@@ -136,4 +136,4 @@ App opens at **http://localhost:8501**
 
 ## 👩‍💻 Author
 
-**Ayeshi Jayarathna** — Q3 Internship Project
+**Ayeshi Jayarathna**
