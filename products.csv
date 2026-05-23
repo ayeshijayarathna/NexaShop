@@ -1,0 +1,26 @@
+product_id,name,category,brand,price_lkr,stock,rating,features,description,color_options,warranty
+P001,Samsung Galaxy S23 Ultra,Smartphones,Samsung,389990,15,4.8,"6.8 inch Display, 200MP Camera, 5000mAh Battery, 12GB RAM","Flagship smartphone with stunning camera quality and premium design",Phantom Black|Green|Cream,2 Years
+P002,iPhone 15 Pro Max,Smartphones,Apple,524990,8,4.9,"6.7 inch Display, A17 Pro Chip, 48MP Camera, Titanium Design","Premium iPhone with titanium frame and professional camera system",Natural Titanium|Blue|Black,1 Year
+P003,Dell XPS 15,Laptops,Dell,425000,12,4.7,"15.6 inch 4K Display, Intel i7 13th Gen, 16GB RAM, 512GB SSD","High-performance laptop for professionals and creators",Platinum Silver|Graphite,1 Year
+P004,MacBook Pro 14,Laptops,Apple,599990,6,4.9,"14 inch Liquid Retina, M3 Pro Chip, 18GB RAM, 512GB SSD","Powerful laptop with M3 chip for creative professionals",Space Gray|Silver,1 Year
+P005,Sony WH-1000XM5,Headphones,Sony,89990,25,4.8,"Industry-leading ANC, 30hr Battery, LDAC Support","Premium noise-cancelling wireless headphones",Black|Silver,1 Year
+P006,AirPods Pro 2nd Gen,Headphones,Apple,79990,30,4.7,"Active Noise Cancellation, Spatial Audio, MagSafe Charging","True wireless earbuds with adaptive audio",White,1 Year
+P007,Samsung 55 inch QLED TV,TVs,Samsung,279990,10,4.6,"4K QLED, 120Hz, Smart TV, HDR10+","Quantum dot technology for vibrant colors",Black,2 Years
+P008,LG 65 inch OLED TV,TVs,LG,449990,5,4.9,"4K OLED, Dolby Vision, WebOS, 120Hz","Perfect blacks and infinite contrast with OLED technology",Black,2 Years
+P009,Canon EOS R6 Mark II,Cameras,Canon,749990,4,4.8,"24MP Full-frame, 4K 60fps Video, IBIS","Professional mirrorless camera for photography enthusiasts",Black,1 Year
+P010,GoPro Hero 12 Black,Cameras,GoPro,129990,18,4.7,"5.3K Video, HyperSmooth 6.0, Waterproof","Action camera for adventures and extreme sports",Black,1 Year
+P011,PlayStation 5,Gaming,Sony,169990,7,4.9,"Ultra HD, Ray Tracing, 825GB SSD, DualSense Controller","Next-gen gaming console with immersive experiences",White,1 Year
+P012,Xbox Series X,Gaming,Microsoft,159990,9,4.8,"4K Gaming, 1TB SSD, Game Pass Compatible","Powerful gaming console with extensive game library",Black,1 Year
+P013,Logitech MX Master 3S,Accessories,Logitech,24990,40,4.8,"Ergonomic Design, Multi-device, Quiet Clicks","Premium wireless mouse for productivity",Black|Pale Gray,1 Year
+P014,Apple Magic Keyboard,Accessories,Apple,34990,22,4.6,"Bluetooth, Rechargeable Battery, Scissor Keys","Sleek wireless keyboard for Mac devices",Silver|Space Gray,1 Year
+P015,Samsung 1TB SSD,Storage,Samsung,32990,35,4.7,"Read 7000MB/s, Write 5000MB/s, NVMe PCIe 4.0","Ultra-fast storage for gaming and professional work",Black,5 Years
+P016,WD 4TB External HDD,Storage,Western Digital,18990,28,4.5,"USB 3.0, Portable, Password Protection","Reliable external storage for backups",Black,2 Years
+P017,Anker PowerCore 20000,Accessories,Anker,12990,50,4.8,"20000mAh, Fast Charging, Dual USB Ports","High-capacity portable charger for multiple devices",Black,18 Months
+P018,TP-Link WiFi 6 Router,Networking,TP-Link,27990,20,4.6,"AX5400, Dual Band, 6 Antennas, MU-MIMO","Fast and reliable WiFi 6 router for home networks",Black,2 Years
+P019,Razer BlackWidow V4,Gaming,Razer,44990,14,4.7,"Mechanical Switches, RGB Lighting, Programmable Keys","Professional gaming keyboard with tactile feedback",Black,2 Years
+P020,Fitbit Charge 6,Wearables,Fitbit,39990,32,4.6,"Heart Rate Monitor, GPS, Sleep Tracking, 7-day Battery","Fitness tracker for health-conscious users",Black|Coral|Silver,1 Year
+P021,Apple Watch Series 9,Wearables,Apple,129990,16,4.8,"Always-on Display, ECG, Blood Oxygen, Fitness Tracking","Advanced smartwatch with health monitoring features",Starlight|Midnight|Pink,1 Year
+P022,Bose SoundLink Revolve+,Speakers,Bose,54990,24,4.7,"360° Sound, 16hr Battery, Water Resistant, Bluetooth","Portable speaker with immersive audio",Black|Silver,1 Year
+P023,JBL Flip 6,Speakers,JBL,29990,38,4.6,"12hr Battery, IP67 Waterproof, PartyBoost","Durable portable speaker for outdoor use",Black|Blue|Red|Gray,1 Year
+P024,Kindle Paperwhite,E-readers,Amazon,39990,27,4.8,"6.8 inch Display, Adjustable Warm Light, Waterproof","E-reader for book lovers with eye-friendly display",Black,1 Year
+P025,iPad Air 5th Gen,Tablets,Apple,189990,11,4.8,"10.9 inch Display, M1 Chip, 64GB Storage, Apple Pencil Support","Versatile tablet for work and creativity",Space Gray|Starlight|Pink|Purple,1 Year
